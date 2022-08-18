@@ -5,17 +5,16 @@ Also sometimes using https://tea.jecket.xyz for smaller projects (mostly private
 
 ## Langs I use
 - php (Most fluent)
+- Kotlin (Learning)
 - Javascript [Node.js]
 - Python
 - Lua
 - C (Learning)
-- Kotlin (Learning)
 
 ## Games I code stuff for
 - NotITG (Lua, for [modfiles](https://www.youtube.com/playlist?list=PL9PHfy-ccIgPvuZN9P7-z_Uts_hk8QmH6))
 - SM64 (C, my mods for it aren't public yet but for code reference [check here](https://github.com/n64decomp/sm64))
 - Minecraft (Kotlin, although I only made [one plugin so far](https://tea.jecket.xyz/rya/fireballer))
-- Geometry Dash (php, literally only for [dashbox](https://github.com/Jecket22/dashbox) and [GMDPrivateServer](https://github.com/Cvolton/GMDprivateServer/))
 
 <!--##
 
