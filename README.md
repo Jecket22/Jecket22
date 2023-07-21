@@ -1,17 +1,15 @@
 # you've entered the comedy area (my GitHub)
 
-Hobbyist dev mostly for gaming-related things  
-Also sometimes using https://tea.jecket.xyz for smaller projects (mostly private)
+Hobbyist dev, mostly for gaming related things in terms of public projects.  
+Living in the backend, hammering on the frontend, destroying computers passively
 
 ## Langs I use
-- Kotlin (Learning)
+- Kotlin
 - Python
 - Lua
-- C (Learning)
-
-## Games I code stuff for
-- NotITG (Lua, for [modfiles](https://www.youtube.com/playlist?list=PL9PHfy-ccIgPvuZN9P7-z_Uts_hk8QmH6))
-- SM64 (C, my mods for it aren't public yet but for code reference [check here](https://github.com/n64decomp/sm64))
+- PHP
+- C (learning)
+- node.js (relearning)
 
 <!--##
 
