@@ -17,4 +17,4 @@ Living in the backend, hammering on the frontend, destroying computers passively
 
 <!-- I wanna try this css injection that apparently @cloud11665 found -->
 ```math
-\ce{$\unicode[font-family: BlinkMacSystemFont; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.25; background: url('https://raw.githubusercontent.com/Jecket22/Jecket22/master/bg1.png');]{x0000}$}
+\ce{$\unicode[font-family: BlinkMacSystemFont; pointer-events: none; z-index: -10; scale: 2; image-rendering: pixelated; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.4; background: url('https://raw.githubusercontent.com/Jecket22/Jecket22/master/bg1.png');]{x0000}$}
