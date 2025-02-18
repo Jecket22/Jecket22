@@ -3,13 +3,13 @@
 Hobbyist dev, mostly for gaming related things in terms of public projects.  
 Living in the backend, hammering on the frontend, destroying computers passively
 
-## Langs I use
-- Kotlin
-- Python
-- Lua
+## Langs I use (from most frequent/knowledgeable to least)
 - PHP
-- C (learning)
-- node.js (relearning)
+- Lua
+- Python
+- node.js
+- Kotlin
+- C
 
 <!--##
 
